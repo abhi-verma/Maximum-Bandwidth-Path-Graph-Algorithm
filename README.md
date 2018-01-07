@@ -19,3 +19,4 @@
 
 The program outputs results in the following format:
 
+![graph table](https://user-images.githubusercontent.com/22184019/34652066-5d1e8dba-f3ff-11e7-94ff-6ec95fa158ca.PNG)
