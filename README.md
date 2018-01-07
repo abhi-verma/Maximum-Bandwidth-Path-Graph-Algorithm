@@ -3,7 +3,7 @@
 ### Installation
 
 **Mac OS X**: A version of Python is already installed.  
-**Windows**: You will need to install one of the 2.x versions available at [python.org](http://www.python.org/getit/).
+**Windows**: You will need to install one of the 3.x versions available at [python.org](http://www.python.org/getit/).
 
 
 ### Usage Information
